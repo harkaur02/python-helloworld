@@ -22,5 +22,5 @@ def main(argv=None):
     parser.parse_args(argv[1:])
 
     print("Hello, world")
-
+    print("Hello, world")
     return 0
