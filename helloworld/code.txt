@@ -1,2 +1,2 @@
 this content is pushed from local master branch directly to remote master branch.
-first commint from feature/login branch
+first commit from feature/login branch
